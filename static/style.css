@@ -1,0 +1,27 @@
+body {
+    padding-top: 60px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.progress {
+    margin-top: 10px;
+    display: none;
+}
+
+footer {
+    margin-top: 20px;
+    padding: 20px 0;
+    text-align: center;
+    background-color: #f8f9fa;
+}
