@@ -63,6 +63,6 @@ Your Name - sriramsri230@gmail.com
 
 Project Link: https://github.com/sriramsri230/excel-compare
 
-Replace `yourusername` with your actual GitHub username and `sriramsri230@gmail.com` with your actual email
+Replace `sriramsri230` with your actual GitHub username and `sriramsri230@gmail.com` with your actual email
 
 Note: The project has been created by ChatGpt!
